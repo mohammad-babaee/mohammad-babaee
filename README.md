@@ -22,7 +22,7 @@ Skills: HTML / CSS / JS / Ruby / Ruby On Rails / Python / PHP
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&row=2&column=3&theme=onedark)](https://github.com/mohammad-babaee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&theme=dark)](https://github.com/mohammad-babaee)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) 
 
