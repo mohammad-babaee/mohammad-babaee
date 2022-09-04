@@ -8,10 +8,10 @@ I'm a Full-Stack Web Developer that fall in love with : Linux , Network , Cyber 
 
 You Can See My Works on this page , but if you wanna see my Linkedin profile , it's available here for you ! check it out !
 
-Skills: HTML / CSS / JS / Ruby / Ruby On Rails / Python / PHP
+Skills: HTML / CSS / JS / Ruby / Ruby On Rails / Python / 
 
 - 🔭 I’m currently working on Improve Myself ! 
-- 🌱 I’m currently learning PHP & Laravel Framework 
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on Many Project ! 
 - 🤔 I’m looking for help with Ask My Questions in programming websites 
 - 💬 Ask me about Anything You want , Because I don't have a hidden life ! 
