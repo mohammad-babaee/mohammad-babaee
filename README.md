@@ -20,7 +20,7 @@ Skills: HTML / CSS / JS / Ruby / Ruby On Rails / Python /
 
 [<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg' alt='github' height='60'>](https://github.com/mohammad-babaee) [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='github' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad--babaee/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&theme=dark)](https://github.com/mohammad-babaee)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&row=2&column=3&theme=onedark)](https://github.com/mohammad-babaee)
