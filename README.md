@@ -1,4 +1,4 @@
-# 👾 Mohammad Babaee – Full-Stack Developer | Cybersecurity Enthusiast 🚀  
+# Mohammad Babaee – Full-Stack Developer | Cybersecurity Enthusiast 💻
 
 ![Full-Stack Web Developer 👨‍💻](https://github.com/mohammad-babaee/mohammad-babaee/blob/master/%5Bcoding-back%5D.jpg)  
 
