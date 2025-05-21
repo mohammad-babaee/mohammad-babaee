@@ -46,14 +46,20 @@ Want to connect? **My LinkedIn profile is available for you—let’s talk tech!
 
 ## 📊 GitHub Stats   
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&layout=compact&theme=dark&langs_count=8" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=mohammad-babaee&theme=darkhub&row=3&column=4" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammad-babaee&show_icons=true&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&layout=compact&theme=dark&langs_count=8) 
-
-[![🏆 GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&theme=darkhub&row=3&column=4)](https://github.com/mohammad-babaee)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-babaee&show_icons=true&theme=dark)  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammad-babaee&color=blue)
