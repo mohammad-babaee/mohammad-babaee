@@ -51,8 +51,3 @@ Want to connect? **My LinkedIn profile is available for you—let’s talk tech!
 ![Profile views](https://gpvc.arturio.dev/mohammad-babaee)  
 
 ---
-
-🔥 **Your GitHub profile now looks like a powerhouse developer profile!** 🚀  
-It’s sleek, modern, and **optimized for 2025** to showcase your **expertise, personality, and tech skills**.  
-
-Want to add **project links** or **highlight any achievements**? Let’s make it **even more legendary!** 💻🔥  
