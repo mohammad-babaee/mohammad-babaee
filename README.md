@@ -26,8 +26,19 @@ I thrive on building innovative software, solving complex problems, and pushing 
 You can check out my work right here on GitHub! 💡  
 Want to connect? **My LinkedIn profile is available for you—let’s talk tech!**  
 
-[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg' alt='github' height='60'>](https://github.com/mohammad-babaee)  
-[<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/mohammad--babaee/)  
+
+<table>
+  <tr>
+    <td>
+    [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/mohammad--babaee/)  
+    </td>
+    <td>
+    [<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg' alt='github' height='60'>](https://github.com/mohammad-babaee)  
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
