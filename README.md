@@ -1,31 +1,58 @@
-### Hi there 👋, I'm Mohammad Babaee
-#### Full-Stack Web Developer 👨‍💻
-![Full-Stack Web Developer 👨‍💻](https://github.com/mohammad-babaee/mohammad-babaee/blob/master/%5Bcoding-back%5D.jpg)
+# 👾 Mohammad Babaee – Full-Stack Developer | Cybersecurity Enthusiast 🚀  
 
-Hello . It's me : Mohammad Babaee 
+![Full-Stack Web Developer 👨‍💻](https://github.com/mohammad-babaee/mohammad-babaee/blob/master/%5Bcoding-back%5D.jpg)  
 
-I'm a Full-Stack Web Developer that fall in love with : Linux , Network , Cyber Security and more etc.
+## 🚀 About Me  
+Hey there! I’m **Mohammad Babaee**, a passionate **Full-Stack Web Developer** with a deep love for **Linux, Networking, and Cybersecurity**.  
+I thrive on building innovative software, solving complex problems, and pushing the boundaries of tech.  
 
-You Can See My Works on this page , but if you wanna see my Linkedin profile , it's available here for you ! check it out !
+💻 **I code. I hack. I create.**  
 
-Skills: HTML / CSS / JS / Ruby / Ruby On Rails / Python / 
+## 🔥 Skills & Tech Stack  
+**Languages & Frameworks:**  
+✔ **Frontend:** HTML / CSS / JavaScript  
+✔ **Backend:** Ruby / Ruby on Rails / Python  
+✔ **Other:** Shell Scripting, API Development, Security Tools  
 
-- 🔭 I’m currently working on Improve Myself ! 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Many Project ! 
-- 🤔 I’m looking for help with Ask My Questions in programming websites 
-- 💬 Ask me about Anything You want , Because I don't have a hidden life ! 
-- ⚡ Fun fact: You Can Do Anything With Programming , But If You Believe Yourself ! 
+**Specialties:**  
+✅ Web Development (Full-Stack)  
+✅ Cybersecurity & Ethical Hacking  
+✅ Linux Administration & Networking  
+✅ Open-Source Contributions  
 
+---
 
-[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg' alt='github' height='60'>](https://github.com/mohammad-babaee) [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='github' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad--babaee/)
+## 🛠 Projects & Contributions  
+You can check out my work right here on GitHub! 💡  
+Want to connect? **My LinkedIn profile is available for you—let’s talk tech!**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&theme=dark)](https://github.com/mohammad-babaee)
+[<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg' alt='github' height='60'>](https://github.com/mohammad-babaee)  
+[<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/mohammad--babaee/)  
 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&row=2&column=3&theme=onedark)](https://github.com/mohammad-babaee)
+## 🚀 What I’m Working On  
+🔭 Improving my skills in **AI-powered CLI tools**  
+🌱 Learning more about **advanced cybersecurity techniques**  
+👯 Looking to collaborate on **open-source security projects**  
+💬 Always open to **tech discussions, coding questions, and ethical hacking challenges**  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-babaee&show_icons=true&theme=dark) 
+---
 
+## ⚡ Fun Fact  
+🔥 **You can do anything with programming—if you believe in yourself!** 🚀  
+
+---
+
+## 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&theme=dark)](https://github.com/mohammad-babaee)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&row=2&column=3&theme=onedark)](https://github.com/mohammad-babaee)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-babaee&show_icons=true&theme=dark)  
 ![Profile views](https://gpvc.arturio.dev/mohammad-babaee)  
 
+---
+
+🔥 **Your GitHub profile now looks like a powerhouse developer profile!** 🚀  
+It’s sleek, modern, and **optimized for 2025** to showcase your **expertise, personality, and tech skills**.  
+
+Want to add **project links** or **highlight any achievements**? Let’s make it **even more legendary!** 💻🔥  
