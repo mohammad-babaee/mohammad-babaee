@@ -27,16 +27,18 @@ You can check out my work right here on GitHub! 💡
 Want to connect? **My LinkedIn profile is available for you—let’s talk tech!**  
 
 
-<table>
-  <tr>
-    <td>
-    [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/mohammad--babaee/)  
-    </td>
-    <td>
-    [<img src='https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg' alt='github' height='60'>](https://github.com/mohammad-babaee)  
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/mohammad--babaee/">
+    <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" width="120">
+  </a>
+
+  <a href="https://github.com/mohammad-babaee">
+    <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Logo.wine.svg" alt="GitHub" width="120">
+  </a>
+
+</div>
+
 
 
 
