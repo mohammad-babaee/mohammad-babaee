@@ -53,12 +53,10 @@ Want to connect? **My LinkedIn profile is available for you—let’s talk tech!
 [![🏆 GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&theme=darkhub&row=3&column=4)](https://github.com/mohammad-babaee)
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-babaee&show_icons=true&theme=dark)  
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=mohammad-babaee&color=blue)
 
-
-![Profile views](https://gpvc.arturio.dev/mohammad-babaee)  
 
 ---
