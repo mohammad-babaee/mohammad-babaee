@@ -45,6 +45,8 @@ Want to connect? **My LinkedIn profile is available for you—let’s talk tech!
 ---
 
 ## 📊 GitHub Stats   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-babaee&theme=dark)](https://github.com/mohammad-babaee) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammad-babaee&row=2&column=3&theme=onedark)](https://github.com/mohammad-babaee)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-babaee&show_icons=true&theme=dark)  
 ![Profile views](https://gpvc.arturio.dev/mohammad-babaee)  
